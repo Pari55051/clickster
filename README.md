@@ -8,5 +8,5 @@ Link to OnShape document: [https://cad.onshape.com/documents/3862efd9c14f1eb2ef5
 
 
 ## Images
-![complete preview](images/preview.png)
+![complete preview](g)
 
